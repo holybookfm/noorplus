@@ -1,12 +1,12 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "updates": {
     "en": [
-      "🎙️ Added Osamah Yacoub Athan sound selection"
+      "changed UI desgin"
       
     ],
     "ar": [
-      "🎙️ إضافة صوت الأذان بصوت أسامة يعقوب"
+      "تم تغير التصكيك"
     ]
   }
 }
