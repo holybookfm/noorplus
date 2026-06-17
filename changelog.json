@@ -1,5 +1,16 @@
 {
-  "version": "1.0.3",
-  "updates": []
+  "version": "1.0.4",
+  "updates": {
+    "en": [
+      "Interactive Quran Reader & Reciter: Listen to verse-by-verse audio, toggle translations, enable repeat or auto-scroll, and choose from multiple reciters.",
+      "Nearest Mosque Locator: View nearby mosques with step counts and walking duration (one-way/round-trip) along with Google Maps directions.",
+      "Live Broadcasting: Added Saudi Sunnah TV (Madinah Live) to the Quran Radio and live stream player."
+    ],
+    "ar": [
+      "قارئ ومستمع القرآن الكريم التفاعلي: استمع للتلاوة آية بآية، مع إمكانية تبديل الترجمة، تفعيل وضع التكرار أو التمرير التلقائي، واختيار القارئ المفضل.",
+      "مكتشف المساجد المجاورة: اعرض المساجد القريبة مع حساب عدد الخطوات ووقت المشي (ذهابًا وإيابًا) مع إمكانية التوجيه المباشر عبر خرائط جوجل.",
+      "البث المباشر: إضافة قناة السنة النبوية السعودية (بث مباشر من المدينة المنورة) لقائمة إذاعة القرآن الكريم والبث الحي."
+    ]
+  }
 }
 
